@@ -1,5 +1,5 @@
 # What is HMCore?
-HMCore is a way to reduce mod intersection and maximize compatibiliy. This is not a traditional Core Mod project. HMCore will be collection of flexible interfaces, that allow not only mods to be built upon, but also allow custom implementations.
+HMCore, or **Hytale Modding Core**, is a way to reduce mod intersection and maximize compatibiliy. This is not a traditional Core Mod project. HMCore will be collection of flexible interfaces, that allow not only mods to be built upon, but also allow custom implementations.
 
 Imagine something similar to the Flans Mod, but in addition to creating new guns and vehicles, you can also create different versions of the Flans mod itself, and customize vehicle behavior and how the guns feel like.
 
